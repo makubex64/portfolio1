@@ -26,8 +26,8 @@
    <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
-   <script src="./../bootstrap/js/jquery-3.4.1.min.js"></script>
-   <script src="./../bootstrap/js/bootstrap.min.js"></script>
+   <script src="./bootstrap/js/jquery-3.4.1.min.js"></script>
+   <script src="./bootstrap/js/bootstrap.min.js"></script>
    <script src="./js/app.js"></script>
 
   </body>

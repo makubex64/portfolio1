@@ -9,11 +9,11 @@
     <!-- Bootstrap CSS -->
 <!--     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> -->
 
-<link rel="stylesheet" href="./../bootstrap/css/bootstrap.min.css">
-<link rel="stylesheet" href="./../bootstrap/css/header.css">
-<link rel="stylesheet" href="./../bootstrap/fontawesome-free-5.12.0-web/css/all.css">
+<link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="./bootstrap/css/header.css">
+<link rel="stylesheet" href="./bootstrap/fontawesome-free-5.12.0-web/css/all.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
-<link rel="icon" type="image/png" sizes="16x16" href="./../img/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="16x16" href="./img/favicon-16x16.png">
 
     <title>Makubex-code</></title>
   </head>

@@ -9,7 +9,7 @@
     </div>
 	
     <div class="col-md-6 jorge">
-    	<img src="../img/jorge.jpg" alt="">
+    	<img src="./img/jorge.jpg" alt="">
     </div>
 
     <!-- Information basic -->
