@@ -11,8 +11,7 @@
 
 <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="./bootstrap/css/header.css">
-<link rel="stylesheet" href="./bootstrap/fontawesome-free-5.12.0-web/css/all.css">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<script src="https://kit.fontawesome.com/2e8ca638ec.js" crossorigin="anonymous"></script><link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon-16x16.png">
 
     <title>Makubex-code</></title>
