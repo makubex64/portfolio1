@@ -59,10 +59,10 @@ max-width: 1200px;
 /*imagen jorge*/
 /*imagen jorge*/
 .jorge img{
-	width: 50%;
-	height: 75%;
-	border-radius: 200px;
-	float: right;
+    width: 230px;
+    max-width: 100%;
+    clip-path: circle(42% at center);
+    float: right;
 }
 
 
